@@ -8,3 +8,7 @@ sous branches de br4 :
     sous branches de br6 :
         test failed in both cases : test avec east , et test avec estt
         there was an error in the code bounaries were wrong : i <= s1.length()
+
+
+        br 7 : c=0
+        br 8 : c!=0
