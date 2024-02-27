@@ -1,0 +1,10 @@
+Br 1 : s1 null
+Br 2 : s2 null
+Br 3 : s1 et s2 null
+Br 4 : s1 et s2 non null
+sous branches de br4 :
+    br 5 : n ont pas mm longueure
+    br 6 : ont mm longueure
+    sous branches de br6 :
+        test failed in both cases : test avec east , et test avec estt
+        there was an error in the code bounaries were wrong : i <= s1.length()
