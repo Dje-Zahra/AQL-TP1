@@ -1,0 +1,10 @@
+Branche1 : if string = null  ==> False
+BR2 : else de BR1 ==> string non null
+des sous branches de la BR 2
+BR3 : s.charAt(i) != s.charAt(j)  -- identique? sinon out of the loop with false!!
+Br 4 : if all identical ==> it is a palindrome  ==> return True
+
+
+
+when using the original provided code , String "kayak" is considered as not a palindrome; while it is .
+The error was : confusion in increasing and decreasing the i and j indexes.
